@@ -34,6 +34,13 @@ uv sync
 
 ## Step4:
 
+Download the dataset from [here.](https://www.kaggle.com/datasets/rohitgrewal/electricity-demand-data-dsl?resource=download)
+
+Rename the dataset file as "electricityDemandDataset.csv"
+Make sure you place the csv dataset in src/cse427_project
+
+## Step5:
+
 install the VS Code Jupyter Nootbook extension.
 connect the extension with the python environment from this project.
 
