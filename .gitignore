@@ -8,4 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
-.\src\cse427_project\electricity demand dataset.csv
+*.csv
